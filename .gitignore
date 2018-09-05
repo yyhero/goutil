@@ -1,0 +1,7 @@
+﻿# 忽略goland的项目文件
+.idea/*
+*/.idea/*
+.vscode/*
+*/.vscode/*
+debug.test
+*/debug.test
