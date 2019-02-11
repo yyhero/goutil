@@ -4,8 +4,8 @@ import (
 	"fmt"
 	"moqikaka.com/Framework/goroutineMgr"
 	"moqikaka.com/Framework/monitorMgr"
-	"moqikaka.com/goutil/debugUtil"
-	"moqikaka.com/goutil/logUtil"
+	"github.com/yyhero/goutil/debugUtil"
+	"github.com/yyhero/goutil/logUtil"
 	"time"
 )
 

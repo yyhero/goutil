@@ -4,8 +4,8 @@ import (
 	"errors"
 	"strings"
 
-	"moqikaka.com/goutil/xmlUtil/gxpath/internal/query"
-	"moqikaka.com/goutil/xmlUtil/gxpath/xpath"
+	"github.com/yyhero/goutil/xmlUtil/gxpath/internal/query"
+	"github.com/yyhero/goutil/xmlUtil/gxpath/xpath"
 )
 
 func predicate(q query.Query) func(xpath.NodeNavigator) bool {

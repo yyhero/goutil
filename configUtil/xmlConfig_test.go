@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"testing"
 
-	"moqikaka.com/goutil/xmlUtil"
+	"github.com/yyhero/goutil/xmlUtil"
 )
 
 // bool值读取测试

@@ -8,7 +8,7 @@ import (
 	"time"
 	"sort"
 
-	"moqikaka.com/goutil/netUtil"
+	"github.com/yyhero/goutil/netUtil"
 )
 
 // 获取请求的IP(obsolete, 直接调用netUtil.GetHttpAddr)

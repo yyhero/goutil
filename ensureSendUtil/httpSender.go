@@ -2,7 +2,7 @@ package ensureSendUtil
 
 import (
 	"fmt"
-	"moqikaka.com/goutil/webUtil"
+	"github.com/yyhero/goutil/webUtil"
 )
 
 // 实现 EnsureSender和sender接口

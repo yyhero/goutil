@@ -4,7 +4,7 @@ import (
 	"encoding/binary"
 	"fmt"
 	"moqikaka.com/Framework/goroutineMgr"
-	"moqikaka.com/goutil/intAndBytesUtil"
+	"github.com/yyhero/goutil/intAndBytesUtil"
 	"net"
 	"sync"
 	"time"

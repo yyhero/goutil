@@ -2,9 +2,9 @@ package ensureSendUtil
 
 import (
 	"fmt"
-	"moqikaka.com/goutil/fileUtil"
-	"moqikaka.com/goutil/logUtil"
-	"moqikaka.com/goutil/stringUtil"
+	"github.com/yyhero/goutil/fileUtil"
+	"github.com/yyhero/goutil/logUtil"
+	"github.com/yyhero/goutil/stringUtil"
 )
 
 // 从目录加载缓存数据并发送

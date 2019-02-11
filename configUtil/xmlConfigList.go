@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	"moqikaka.com/goutil/typeUtil"
+	"github.com/yyhero/goutil/typeUtil"
 )
 
 // 获取指定xpath路径下的值

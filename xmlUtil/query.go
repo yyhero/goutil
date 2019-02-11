@@ -3,8 +3,8 @@ package xmlUtil
 import (
 	"fmt"
 
-	"moqikaka.com/goutil/xmlUtil/gxpath"
-	"moqikaka.com/goutil/xmlUtil/gxpath/xpath"
+	"github.com/yyhero/goutil/xmlUtil/gxpath"
+	"github.com/yyhero/goutil/xmlUtil/gxpath/xpath"
 )
 
 // xml节点查找结构(用于遍历xml节点)

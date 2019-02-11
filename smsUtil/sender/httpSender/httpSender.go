@@ -3,8 +3,8 @@ package httpSender
 import (
 	"errors"
 	"fmt"
-	// "moqikaka.com/goutil/debugUtil"
-	"moqikaka.com/goutil/webUtil"
+	// "github.com/yyhero/goutil/debugUtil"
+	"github.com/yyhero/goutil/webUtil"
 )
 
 // 实现Sender相关接口

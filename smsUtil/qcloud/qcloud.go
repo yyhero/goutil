@@ -8,8 +8,8 @@ import (
 	"strings"
 	"time"
 
-	"moqikaka.com/goutil/mathUtil"
-	"moqikaka.com/goutil/smsUtil/sms"
+	"github.com/yyhero/goutil/mathUtil"
+	"github.com/yyhero/goutil/smsUtil/sms"
 )
 
 const (

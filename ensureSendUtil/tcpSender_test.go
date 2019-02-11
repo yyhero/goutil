@@ -2,8 +2,8 @@ package ensureSendUtil
 
 import (
 	"fmt"
-	"moqikaka.com/goutil/debugUtil"
-	"moqikaka.com/goutil/zlibUtil"
+	"github.com/yyhero/goutil/debugUtil"
+	"github.com/yyhero/goutil/zlibUtil"
 	"net"
 	"testing"
 	"time"

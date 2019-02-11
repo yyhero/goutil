@@ -4,7 +4,7 @@ import (
 	"database/sql"
 	"fmt"
 	_ "github.com/go-sql-driver/mysql"
-	"moqikaka.com/goutil/logUtil"
+	"github.com/yyhero/goutil/logUtil"
 )
 
 // 打开数据库连接

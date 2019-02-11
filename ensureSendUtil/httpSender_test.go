@@ -3,7 +3,7 @@ package ensureSendUtil
 import (
 	"fmt"
 	"io/ioutil"
-	"moqikaka.com/goutil/debugUtil"
+	"github.com/yyhero/goutil/debugUtil"
 	"net/http"
 	"testing"
 	"time"

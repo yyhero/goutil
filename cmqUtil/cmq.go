@@ -3,10 +3,10 @@ package cmqUtil
 import (
 	"encoding/json"
 	"fmt"
-	"moqikaka.com/goutil/cmqUtil/common"
-	"moqikaka.com/goutil/logUtil"
-	"moqikaka.com/goutil/mathUtil"
-	"moqikaka.com/goutil/webUtil"
+	"github.com/yyhero/goutil/cmqUtil/common"
+	"github.com/yyhero/goutil/logUtil"
+	"github.com/yyhero/goutil/mathUtil"
+	"github.com/yyhero/goutil/webUtil"
 	"time"
 )
 

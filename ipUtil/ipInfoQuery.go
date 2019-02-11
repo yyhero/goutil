@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"moqikaka.com/goutil/securityUtil"
-	"moqikaka.com/goutil/webUtil"
+	"github.com/yyhero/goutil/securityUtil"
+	"github.com/yyhero/goutil/webUtil"
 )
 
 // Ip信息

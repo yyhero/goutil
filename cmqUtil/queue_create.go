@@ -2,7 +2,7 @@ package cmqUtil
 
 import (
 	"errors"
-	"moqikaka.com/goutil/cmqUtil/common"
+	"github.com/yyhero/goutil/cmqUtil/common"
 )
 
 // 创建队列请求对象

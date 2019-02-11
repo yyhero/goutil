@@ -3,7 +3,7 @@ package validationUtil
 import (
 	"errors"
 
-	"moqikaka.com/goutil/stringUtil"
+	"github.com/yyhero/goutil/stringUtil"
 )
 
 const (

@@ -5,7 +5,7 @@ import (
 	"encoding/base64"
 	"io"
 
-	"moqikaka.com/goutil/securityUtil"
+	"github.com/yyhero/goutil/securityUtil"
 )
 
 // 获取新的GUID字符串

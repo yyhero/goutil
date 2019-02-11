@@ -5,8 +5,8 @@ import (
 	"reflect"
 	"strings"
 
-	"moqikaka.com/goutil/typeUtil"
-	"moqikaka.com/goutil/xmlUtil"
+	"github.com/yyhero/goutil/typeUtil"
+	"github.com/yyhero/goutil/xmlUtil"
 )
 
 type XmlConfig struct {

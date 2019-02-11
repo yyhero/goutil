@@ -5,9 +5,9 @@ import (
 	"fmt"
 	"net/url"
 
-	"moqikaka.com/goutil/logUtil"
-	"moqikaka.com/goutil/securityUtil"
-	"moqikaka.com/goutil/stringUtil"
+	"github.com/yyhero/goutil/logUtil"
+	"github.com/yyhero/goutil/securityUtil"
+	"github.com/yyhero/goutil/stringUtil"
 	"sort"
 )
 

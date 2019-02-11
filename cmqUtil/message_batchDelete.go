@@ -3,7 +3,7 @@ package cmqUtil
 import (
 	"errors"
 	"fmt"
-	"moqikaka.com/goutil/cmqUtil/common"
+	"github.com/yyhero/goutil/cmqUtil/common"
 )
 
 // 批量删除消息请求对象

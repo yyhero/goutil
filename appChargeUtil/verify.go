@@ -3,7 +3,7 @@ package appChargeUtil
 import (
 	"errors"
 	"fmt"
-	"moqikaka.com/goutil/webUtil"
+	"github.com/yyhero/goutil/webUtil"
 )
 
 const (

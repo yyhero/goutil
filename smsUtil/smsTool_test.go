@@ -2,7 +2,7 @@ package smsTool
 
 import (
     "testing"
-    "moqikaka.com/goutil/smsUtil/qcloud"
+    "github.com/yyhero/goutil/smsUtil/qcloud"
 )
 
 func TestQCloudSend(t *testing.T) {

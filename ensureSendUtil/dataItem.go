@@ -1,7 +1,7 @@
 package ensureSendUtil
 
 import (
-	"moqikaka.com/goutil/zlibUtil"
+	"github.com/yyhero/goutil/zlibUtil"
 )
 
 type dataItem interface {

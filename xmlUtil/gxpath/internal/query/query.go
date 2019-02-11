@@ -3,7 +3,7 @@ package query
 import (
 	"reflect"
 
-	"moqikaka.com/goutil/xmlUtil/gxpath/xpath"
+	"github.com/yyhero/goutil/xmlUtil/gxpath/xpath"
 )
 
 // An XPath query interface.

@@ -1,7 +1,7 @@
 package webUtil
 
 import (
-	"moqikaka.com/goutil/zlibUtil"
+	"github.com/yyhero/goutil/zlibUtil"
 	"testing"
 )
 

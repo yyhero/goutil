@@ -3,7 +3,7 @@ package appChargeUtil
 import (
 	"encoding/json"
 	"fmt"
-	"moqikaka.com/goutil/typeUtil"
+	"github.com/yyhero/goutil/typeUtil"
 	"strconv"
 )
 

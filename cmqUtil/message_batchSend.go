@@ -3,7 +3,7 @@ package cmqUtil
 import (
 	"errors"
 	"fmt"
-	"moqikaka.com/goutil/cmqUtil/common"
+	"github.com/yyhero/goutil/cmqUtil/common"
 )
 
 // 批量发送消息请求对象

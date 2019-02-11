@@ -5,7 +5,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"moqikaka.com/goutil/xmlUtil/gxpath/internal/query"
+	"github.com/yyhero/goutil/xmlUtil/gxpath/internal/query"
 )
 
 // valueType is a return value type.

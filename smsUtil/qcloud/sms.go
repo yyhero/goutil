@@ -3,8 +3,8 @@ package qcloud
 import (
     "fmt"
     "encoding/json"
-    "moqikaka.com/goutil/debugUtil"
-    "moqikaka.com/goutil/smsUtil/sender/httpSender"
+    "github.com/yyhero/goutil/debugUtil"
+    "github.com/yyhero/goutil/smsUtil/sender/httpSender"
 )
 
 // qcloud sms

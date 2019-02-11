@@ -9,7 +9,7 @@ import (
 	"strings"
 	"unicode"
 
-	"moqikaka.com/goutil/mathUtil"
+	"github.com/yyhero/goutil/mathUtil"
 )
 
 // 截取字符串

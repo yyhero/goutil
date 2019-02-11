@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"time"
 
-	"moqikaka.com/goutil/timeUtil"
+	"github.com/yyhero/goutil/timeUtil"
 )
 
 // 字节数据类型转换(转换过程不是类型安全的)

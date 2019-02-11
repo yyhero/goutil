@@ -6,8 +6,8 @@ import (
 	"sync"
 	"time"
 
-	"moqikaka.com/goutil/fileUtil"
-	"moqikaka.com/goutil/timeUtil"
+	"github.com/yyhero/goutil/fileUtil"
+	"github.com/yyhero/goutil/timeUtil"
 	"path/filepath"
 )
 

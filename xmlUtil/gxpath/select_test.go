@@ -5,7 +5,7 @@ import (
 	"strings"
 	"testing"
 
-	"moqikaka.com/goutil/xmlUtil/gxpath/xpath"
+	"github.com/yyhero/goutil/xmlUtil/gxpath/xpath"
 )
 
 var html *TNode = example()

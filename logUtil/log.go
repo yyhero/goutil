@@ -10,10 +10,10 @@ import (
 	"strings"
 	"time"
 
-	"moqikaka.com/goutil/debugUtil"
-	"moqikaka.com/goutil/fileUtil"
-	"moqikaka.com/goutil/stringUtil"
-	"moqikaka.com/goutil/timeUtil"
+	"github.com/yyhero/goutil/debugUtil"
+	"github.com/yyhero/goutil/fileUtil"
+	"github.com/yyhero/goutil/stringUtil"
+	"github.com/yyhero/goutil/timeUtil"
 )
 
 const (

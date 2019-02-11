@@ -6,7 +6,7 @@ import (
 	"path/filepath"
 	"time"
 
-	"moqikaka.com/goutil/timeUtil"
+	"github.com/yyhero/goutil/timeUtil"
 )
 
 // 大文件对象，可用于连续写入内容而不关闭文件，直到达到指定的大小

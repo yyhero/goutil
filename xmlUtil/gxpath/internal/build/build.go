@@ -4,9 +4,9 @@ import (
 	"errors"
 	"fmt"
 
-	"moqikaka.com/goutil/xmlUtil/gxpath/internal/parse"
-	"moqikaka.com/goutil/xmlUtil/gxpath/internal/query"
-	"moqikaka.com/goutil/xmlUtil/gxpath/xpath"
+	"github.com/yyhero/goutil/xmlUtil/gxpath/internal/parse"
+	"github.com/yyhero/goutil/xmlUtil/gxpath/internal/query"
+	"github.com/yyhero/goutil/xmlUtil/gxpath/xpath"
 )
 
 type flag int

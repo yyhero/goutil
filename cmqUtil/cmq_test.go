@@ -3,7 +3,7 @@ package cmqUtil
 import (
 	"encoding/json"
 	"fmt"
-	"moqikaka.com/goutil/logUtil"
+	"github.com/yyhero/goutil/logUtil"
 	"testing"
 	"time"
 )

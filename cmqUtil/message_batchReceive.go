@@ -2,7 +2,7 @@ package cmqUtil
 
 import (
 	"errors"
-	"moqikaka.com/goutil/cmqUtil/common"
+	"github.com/yyhero/goutil/cmqUtil/common"
 )
 
 // 批量消费消息请求对象
